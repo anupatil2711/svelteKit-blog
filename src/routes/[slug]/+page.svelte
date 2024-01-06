@@ -30,6 +30,14 @@
 		<svelte:component this={data.content} />
 	</div>
 </article>
+<div style="padding: 100px;">
+	<iframe title="Compiler"
+		frameBorder="0"
+		height="450px" 
+		src="https://onecompiler.com/embed/javascript/3wyne344h" 
+		width="80%"
+		></iframe>
+</div>
 
 <style>
 	article {
